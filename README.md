@@ -66,4 +66,18 @@ https://www.luiztools.com.br/curso-web23-espera.html
 __________
 
 
+LuizTools
+
+web3-week
+
+Criando um dapp para blockchain
+
+Fev/2024
+
+![2024-02-web3week](https://github.com/user-attachments/assets/0be44455-1b46-4ae9-8b38-f0c97793bdcf)
+
+
+__________
+
+
 
