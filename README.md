@@ -16,6 +16,20 @@ https://app.rocketseat.com.br/certificates/760b77d0-a322-4fe5-b182-dc97b94e974a
 __________
 
 
+LuizTools
+
+web3-week5ed
+
+Criando um dapp para blockchain
+
+Out/2024
+
+![2024-10-web3week5ed_dapp_candidate](https://github.com/user-attachments/assets/3bf18035-fcee-49b1-b03e-da6e5fc39006)
+
+
+__________
+
+
 NEARX
 
 blockchain
