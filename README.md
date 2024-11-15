@@ -20,7 +20,15 @@ Certificados
 ![certif_enap_2](https://github.com/user-attachments/assets/fa6b5ce2-af71-4604-8482-86fc01edf340)
 Certificado registrado na Escola Virtual.Gov - EV.G sob o código: tjE314130288ENZ4
 
-====================================================================================================================================================
-DEVOPS
 
+
+======
+DEVOPS
+======
+
+![image](https://github.com/user-attachments/assets/376322c6-2c2d-4a18-bf55-9df926d8a174)
 https://app.rocketseat.com.br/certificates/760b77d0-a322-4fe5-b182-dc97b94e974a
+Cultura DevOps, Framework CALMS
+
+======
+======
