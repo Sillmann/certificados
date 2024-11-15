@@ -27,3 +27,26 @@ Ago/2024
 Certificado registrado na Escola Virtual.Gov - EV.G sob o código: tjE314130288ENZ4
 
 ![2024-08-enap](https://github.com/user-attachments/assets/53e1f868-fd50-4923-ba9d-61711d91f11f)
+
+
+__________
+
+
+LuizTools
+
+web23
+
+Projetos profissionais para a Web2 e Web3 envolvendo blockchain, criptomoedas, 
+dapps, DeFi e smart contracts
+
+Mai/2024
+
+https://www.luiztools.com.br/curso-web23-espera.html
+
+![2024-05-web23](https://github.com/user-attachments/assets/63aacf10-e2e7-4a2d-b676-0f63c78a6733)
+
+
+__________
+
+
+
