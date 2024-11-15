@@ -16,6 +16,23 @@ https://app.rocketseat.com.br/certificates/760b77d0-a322-4fe5-b182-dc97b94e974a
 __________
 
 
+NEARX
+
+blockchain
+
+Vulnerabilidade em Smart Contracts
+
+Out/2024
+
+https://nearx.com.br/pt/home
+
+![2024-10-smartcontract](https://github.com/user-attachments/assets/380c2361-7a30-4e80-8bbd-b5300fdf3cf8)
+
+
+__________
+
+
+
 ENAP - Escola Nacional de Administração Pública
 
 enap
