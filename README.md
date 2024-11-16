@@ -96,6 +96,19 @@ Mar/2024
 __________
 
 
+DevPleno
+
+Curso devReactJS
+
+Mar/2024
+
+![2024-03-devpleno](https://github.com/user-attachments/assets/52913047-a131-4f58-baa7-69d125e7c81e)
+
+
+__________
+
+
+
 
 LuizTools
 
