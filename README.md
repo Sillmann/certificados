@@ -80,6 +80,23 @@ https://www.luiztools.com.br/curso-web23-espera.html
 __________
 
 
+
+Linkedin Learning
+
+blockchain
+
+Fundamentos da Tecnologia Blockchain
+
+Mar/2024
+
+![2024-03-blockchain-linkedin](https://github.com/user-attachments/assets/4142e9e9-566f-4b9f-9dc3-f927021cd7ae)
+
+
+
+__________
+
+
+
 LuizTools
 
 web3-week
