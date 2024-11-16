@@ -18,20 +18,6 @@ Rocketseat
 
 React Native
 
-Interfaces, Navegação e Armazenamento Local
-
-Mai/2024
-
-https://app.rocketseat.com.br/certificates/6db52cbf-331a-4c4a-963f-069bdb26cd93
-
-![2024-05-interface](https://github.com/user-attachments/assets/bdd9e7a6-4afa-4b8f-aeaa-01c01fddde77)
-
-__________
-
-Rocketseat
-
-React Native
-
 Push Notifications
 
 Nov/2024
@@ -85,6 +71,32 @@ Ago/2024
 Certificado registrado na Escola Virtual.Gov - EV.G sob o código: tjE314130288ENZ4
 
 ![2024-08-enap](https://github.com/user-attachments/assets/53e1f868-fd50-4923-ba9d-61711d91f11f)
+
+__________
+
+LuizTools
+
+web3-week-4.edicao
+
+Criando um dapp para blockchain
+
+Jun/2024
+
+![2024-06-web3week4ed](https://github.com/user-attachments/assets/0b728137-fe80-4608-a7f6-97fbd876a1fb)
+
+__________
+
+Rocketseat
+
+React Native
+
+Interfaces, Navegação e Armazenamento Local
+
+Mai/2024
+
+https://app.rocketseat.com.br/certificates/6db52cbf-331a-4c4a-963f-069bdb26cd93
+
+![2024-05-interface](https://github.com/user-attachments/assets/bdd9e7a6-4afa-4b8f-aeaa-01c01fddde77)
 
 
 __________
