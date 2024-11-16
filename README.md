@@ -79,6 +79,21 @@ https://www.luiztools.com.br/curso-web23-espera.html
 
 __________
 
+Rocketseat
+
+React Native
+
+Component Library e Integração com Backend
+
+Abr/2024
+
+https://app.rocketseat.com.br/certificates/f6b1d41a-eeb3-4b09-a1d3-5564ad2c5c75
+
+![2024-04-components](https://github.com/user-attachments/assets/c8eee174-d2c8-4d6d-b4d7-8aaedf070d55)
+
+__________
+
+
 
 
 Linkedin Learning
