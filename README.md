@@ -83,6 +83,21 @@ Rocketseat
 
 React Native
 
+Fundamentos do React, React Native, Expo, Typescript
+
+Mai/2024
+
+https://app.rocketseat.com.br/certificates/89d59534-d67d-45a3-bff1-a9335910a925
+
+![2024-05-fundamentos-react](https://github.com/user-attachments/assets/0ddd409a-1b4f-4b8e-a010-042b87d9d737)
+
+__________
+
+
+Rocketseat
+
+React Native
+
 Component Library e Integração com Backend
 
 Abr/2024
