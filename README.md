@@ -12,6 +12,19 @@ https://app.rocketseat.com.br/certificates/760b77d0-a322-4fe5-b182-dc97b94e974a
 
 ![image](https://github.com/user-attachments/assets/376322c6-2c2d-4a18-bf55-9df926d8a174)
 
+__________
+
+Rocketseat
+
+React Native
+
+Push Notifications
+
+Nov/2024
+
+https://app.rocketseat.com.br/certificates/e49ab56e-f987-4ebf-8a12-9593fd627e05
+
+![2024-11-push](https://github.com/user-attachments/assets/e95ead78-d44d-4ddb-9c8d-d06f3da43270)
 
 __________
 
