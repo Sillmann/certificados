@@ -2,6 +2,21 @@
 
 Rocketseat
 
+React Native
+
+Animações e microinterações
+
+Nov/2024
+
+https://app.rocketseat.com.br/certificates/ed411259-c919-4d26-8f82-e9bcbd20c1ed
+
+![2024-11-anima](https://github.com/user-attachments/assets/0691d94a-76e1-4524-8f5d-266a65a4b0de)
+
+__________
+
+
+Rocketseat
+
 devops
 
 Cultura DevOps, Framework CALMS
@@ -192,5 +207,16 @@ Fev/2024
 
 __________
 
+Udemy
+
+React JS
+
+ReactJs + Firebase + Bootstrap
+
+Dez/2020
+
+![2020-12-react-firebase](https://github.com/user-attachments/assets/f0bc06a1-dca6-4aa9-895b-5eec58d15e4e)
+
+__________
 
 
