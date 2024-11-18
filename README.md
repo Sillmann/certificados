@@ -1,5 +1,22 @@
 # certificados
 
+__________
+
+Udemy
+
+React Native
+
+Construindo aplicativos com React Native, Typescript e Expo
+
+https://www.udemy.com/certificate/UC-e7af131a-44c9-4b73-b248-8668f9020821/
+
+Nov/2024
+
+![2024-11-react-native](https://github.com/user-attachments/assets/b94e0ce1-6701-4b32-87fa-0cd4f0c2a6cc)
+
+__________
+
+
 Rocketseat
 
 React Native
