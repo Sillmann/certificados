@@ -2,6 +2,23 @@
 
 __________
 
+
+NEARX
+
+blockchain
+
+Desenvolvimento de Ativos Reais (RWA)
+
+Nov/2024
+
+https://nearx.com.br/pt/home
+
+![2024-11-rwa](https://github.com/user-attachments/assets/777c54f3-3c62-45a3-9856-b4e8a1708a9b)
+
+
+__________
+__________
+
 Udemy
 
 React Native
