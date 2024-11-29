@@ -1,4 +1,15 @@
 # certificados
+__________
+
+Rocketseat
+
+React Native
+
+Geolocalização e Mapas
+
+https://app.rocketseat.com.br/certificates/507b2a43-e66e-44c8-a5f4-1494a0e52cc6
+
+![2024-11-maps](https://github.com/user-attachments/assets/38e64357-bb00-4fbe-96f6-075a7af7db7a)
 
 __________
 
@@ -15,8 +26,6 @@ https://nearx.com.br/pt/home
 
 ![2024-11-rwa](https://github.com/user-attachments/assets/777c54f3-3c62-45a3-9856-b4e8a1708a9b)
 
-
-__________
 __________
 
 Udemy
