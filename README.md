@@ -1,6 +1,18 @@
 # certificados
 __________
 
+NEARX
+
+blockchain
+
+Desenvolvimento em DREX
+
+Nov/2024
+
+![2024-11-drex](https://github.com/user-attachments/assets/16478677-ba4b-48f2-be0c-424297d0a158)
+
+__________
+
 Rocketseat
 
 React Native
