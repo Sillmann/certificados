@@ -1,6 +1,20 @@
 # certificados
 __________
 
+COD3R
+
+vscode
+
+Produtividade em VsCode
+
+Dez/2024
+
+https://www.cod3r.com.br/certificates/pijelxjwvy
+
+![2024-12-vscode](https://github.com/user-attachments/assets/4d7752e5-1f3c-4867-bbf5-78b78f0f6393)
+
+__________
+
 NEARX
 
 blockchain
