@@ -287,6 +287,19 @@ Fev/2024
 
 ![2024-02-web3week](https://github.com/user-attachments/assets/0be44455-1b46-4ae9-8b38-f0c97793bdcf)
 
+__________
+
+Rocketseat
+
+React Native
+
+Figma
+
+Out/2023
+
+https://app.rocketseat.com.br/certificates/34af58ab-0dc8-4f72-9fbd-83e6175c6682
+
+![2023-10-figma](https://github.com/user-attachments/assets/1a03aae6-a89e-452a-8646-6f353fbbfd30)
 
 __________
 
