@@ -1,6 +1,20 @@
 # certificados
 __________
 
+Rocketseat
+
+React Native
+
+Testes Automatizados
+
+Dez/2024
+
+https://app.rocketseat.com.br/certificates/2a10a9ac-fc9b-485b-9eef-22b6f84c2610
+
+![2024-12-testes](https://github.com/user-attachments/assets/fefe0d39-7753-4e9d-b6c3-d635b2343202)
+
+__________
+
 COD3R
 
 vscode
