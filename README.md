@@ -3,6 +3,20 @@ __________
 
 Rocketseat
 
+React JS
+
+Fundamentos do React
+
+Dez/2024
+
+https://app.rocketseat.com.br/certificates/075427e1-0597-4e6b-b000-15a0c1cc4b62
+
+![2024-12-reactjs-fundamentos](https://github.com/user-attachments/assets/63359c25-bd75-4be1-8b66-c41e5ed35265)
+
+__________
+
+Rocketseat
+
 React Native
 
 Testes Automatizados
