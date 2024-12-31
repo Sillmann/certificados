@@ -1,6 +1,10 @@
 # certificados
 __________
 
+![Insignia-rocketseat-2024](https://github.com/user-attachments/assets/fa8f639d-b227-4f36-ba67-0f107cd98a4f)
+
+__________
+
 Rocketseat
 
 React Native
