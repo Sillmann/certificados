@@ -3,6 +3,21 @@ __________
 
 Rocketseat
 
+React Native
+
+Fundamentos React Native e Expo, Navegação e Armazenamento local, Component Library e Formulários, Consumo de API, Push Notifications e Deep Linking, Animações e Microinterações, Offline First e Mapas, Testes e Deploy
+
+Dez/2024
+
+https://app.rocketseat.com.br/certificates/0864e5da-6e1f-4b33-937d-f27eb0953bbe
+
+![2024-12-reactnative-conclusao](https://github.com/user-attachments/assets/efd08c1f-aff6-4d5e-b567-75a3a7efd658)
+
+
+__________
+
+Rocketseat
+
 React JS
 
 Fundamentos do React
