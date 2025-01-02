@@ -1,6 +1,22 @@
 # certificados
 __________
 
+Rocketseat
+
+React JS
+
+Integrando Frontend e Backend
+
+Jan/2025
+
+https://app.rocketseat.com.br/certificates/89c507ad-7b84-409e-821d-ac6488cb9b96
+
+![2024-12-reactjs-frontend-backend](https://github.com/user-attachments/assets/31c8a60d-0205-4f21-972c-0a70a8a7c3bb)
+
+
+
+__________
+
 ![Insignia-rocketseat-2024](https://github.com/user-attachments/assets/fa8f639d-b227-4f36-ba67-0f107cd98a4f)
 
 __________
