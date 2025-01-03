@@ -3,6 +3,22 @@ __________
 
 Rocketseat
 
+DevOps
+
+Containers com Docker e Docker Compose
+
+Containers, Volumes, Redes e Imagens com Docker, Orquestração de Containers com Docker Compose
+
+Jan/2025
+
+https://app.rocketseat.com.br/certificates/12d5a492-7661-43c7-9611-6610b4827ffa
+
+![2024-12-devops2-Docker](https://github.com/user-attachments/assets/54d82de3-c4db-4657-b1f2-e73409433047)
+
+__________
+
+Rocketseat
+
 React JS
 
 Integrando Frontend e Backend
