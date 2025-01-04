@@ -221,6 +221,10 @@ https://nearx.com.br/pt/home
 
 __________
 
+![Insignia-rocketseat-nlw-2024](https://github.com/user-attachments/assets/a2dafbb7-2615-477d-a624-9521f7dff256)
+
+__________
+
 
 
 ENAP - Escola Nacional de Administração Pública
