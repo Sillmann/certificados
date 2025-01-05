@@ -5,6 +5,21 @@ Rocketseat
 
 DevOps
 
+IAC com Terraform
+
+Infraestrutura como Código com Terraform, Criação e Gerenciamento de Infraestrutura Cloud
+
+Jan/2025
+
+https://app.rocketseat.com.br/certificates/039aa932-92db-4a36-8c64-0dedb08cf7bd
+
+__________
+
+
+Rocketseat
+
+DevOps
+
 Containers com Docker e Docker Compose
 
 Containers, Volumes, Redes e Imagens com Docker, Orquestração de Containers com Docker Compose
