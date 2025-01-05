@@ -13,6 +13,9 @@ Jan/2025
 
 https://app.rocketseat.com.br/certificates/039aa932-92db-4a36-8c64-0dedb08cf7bd
 
+![2025-01-terraform](https://github.com/user-attachments/assets/8e866a57-b429-4ceb-8606-57f8b7c0c720)
+
+
 __________
 
 
