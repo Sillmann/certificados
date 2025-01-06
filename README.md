@@ -1,4 +1,22 @@
 # certificados
+
+__________
+
+Rocketseat
+
+ReactJs
+
+Fundamentos do Next.js
+
+Fundamentos Next.js, estilização CSS-in-JS, integração com plataforma de pagamentos por internet (Stripe), SSG, SSR, SEO, API Routes.
+
+Jan/2025
+
+https://app.rocketseat.com.br/certificates/4fb00115-d1bd-4149-b85c-6a13c68553d8
+
+![2025-01-next](https://github.com/user-attachments/assets/f844f7e0-53a4-4859-b4c6-3fa2db0f3adc)
+
+
 __________
 
 Rocketseat
