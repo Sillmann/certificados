@@ -4,6 +4,20 @@ __________
 
 Rocketseat
 
+ReactJs
+
+Aprofundando em Hooks
+
+Roteamento, renderizações no React e fluxo do useEffect, gerenciamento de estados via Contextos do React e Reducers, immer, estilização via CSS-in-JS e formulários
+
+Jan/2025
+
+https://app.rocketseat.com.br/certificates/3a9ed4c2-3187-4bc4-8a81-3c2a00c84759
+
+__________
+
+Rocketseat
+
 Node
 
 Fundamentos do Node.js
