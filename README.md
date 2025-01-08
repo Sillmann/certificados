@@ -14,6 +14,8 @@ Jan/2025
 
 https://app.rocketseat.com.br/certificates/3a9ed4c2-3187-4bc4-8a81-3c2a00c84759
 
+![2025-01-hooks](https://github.com/user-attachments/assets/0bfbaf47-738f-4a9c-b7bd-6796c36a5ea8)
+
 __________
 
 Rocketseat
