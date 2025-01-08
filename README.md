@@ -4,6 +4,24 @@ __________
 
 Rocketseat
 
+Node
+
+Fundamentos do Node.js
+
+Node.js, Streams, Fundamentos HTTP, Request, Response, Headers, Status Code, Params.
+
+Jan/2025
+
+https://app.rocketseat.com.br/certificates/b22275be-bbda-4c69-9345-ee860aefb6eb
+
+![2025-01-node](https://github.com/user-attachments/assets/8755eb54-0996-4139-8c2c-7aafba1ef714)
+
+
+
+__________
+
+Rocketseat
+
 ReactJs
 
 Fundamentos do Next.js
