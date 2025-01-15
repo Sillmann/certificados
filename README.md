@@ -4,6 +4,18 @@ __________
 
 Rocketseat
 
+Introdução à IA
+
+Definições teóricas, subáreas, AI Applying, AI Creating, IA sem programação, IA com Python
+
+https://app.rocketseat.com.br/certificates/72b993e8-ee38-4b75-91f1-ea20c82f6ddb
+
+![2025-01-IA-Introducao](https://github.com/user-attachments/assets/b24bfaf5-4144-41c7-8286-6c6ddab8955e)
+
+__________
+
+Rocketseat
+
 ReactJs
 
 Aprofundando em Hooks
